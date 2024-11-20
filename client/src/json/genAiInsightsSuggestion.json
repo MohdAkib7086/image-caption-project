@@ -1,0 +1,17 @@
+{
+    "QA": {
+        "suggestions": [
+            "What is the number of customers who have taken Health Claim with age between 30 to 50 years in Maharashtra",
+            "can you list the customer Ids of the customers who have taken Health Claim with age between 30 to 50 years in Maharashtra",
+            "what is the name of the customer with customer id 480338290035",
+            "what is the claim amount of Tanya Gole",
+            "what is the policy id of customer with customer id 480338290035"
+        ]
+    },
+    "MARKETING": {
+        "suggestions": [
+            "Give me a list of 3 customer who are 30 year old male and are Short-Term Traveler",
+            "Give me a list of 10 customer who are 30+ year old male and are Short-Term Traveler"
+        ]
+    }
+}
